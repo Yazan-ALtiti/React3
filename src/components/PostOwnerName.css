@@ -1,0 +1,9 @@
+.myImage{
+    width: 20%;
+    border-radius:50% ;
+}
+
+#container-div{
+    display:grid ;
+    border: 5px solid gray;
+}
